@@ -1,0 +1,29 @@
+D:\kuliah difa\Semester 3\pemrog\FinPlanProject_Dawam\FinPlanProject\obj\Release\FinPlanProject.csproj.AssemblyReference.cache
+D:\kuliah difa\Semester 3\pemrog\FinPlanProject_Dawam\FinPlanProject\obj\Release\FinPlanProject.csproj.SuggestedBindingRedirects.cache
+D:\kuliah difa\Semester 3\pemrog\FinPlanProject_Dawam\FinPlanProject\obj\Release\FinPlanProject.Homepage.resources
+D:\kuliah difa\Semester 3\pemrog\FinPlanProject_Dawam\FinPlanProject\obj\Release\FinPlanProject.Login.resources
+D:\kuliah difa\Semester 3\pemrog\FinPlanProject_Dawam\FinPlanProject\obj\Release\FinPlanProject.Sign_Up.resources
+D:\kuliah difa\Semester 3\pemrog\FinPlanProject_Dawam\FinPlanProject\obj\Release\FinPlanProject.csproj.GenerateResource.cache
+D:\kuliah difa\Semester 3\pemrog\FinPlanProject_Dawam\FinPlanProject\bin\Release\FinPlanProject.exe.config
+D:\kuliah difa\Semester 3\pemrog\FinPlanProject_Dawam\FinPlanProject\bin\Release\FinPlanProject.exe
+D:\kuliah difa\Semester 3\pemrog\FinPlanProject_Dawam\FinPlanProject\bin\Release\FinPlanProject.pdb
+D:\kuliah difa\Semester 3\pemrog\FinPlanProject_Dawam\FinPlanProject\obj\Release\FinPlanProject.Properties.Resources.resources
+D:\kuliah difa\Semester 3\pemrog\FinPlanProject_Dawam\FinPlanProject\obj\Release\FinPlanProject.csproj.CoreCompileInputs.cache
+D:\kuliah difa\Semester 3\pemrog\FinPlanProject_Dawam\FinPlanProject\obj\Release\FinPlanProject.exe
+D:\kuliah difa\Semester 3\pemrog\FinPlanProject_Dawam\FinPlanProject\obj\Release\FinPlanProject.pdb
+D:\kuliah_difa\Semester_3\pemrog\ini uas\FinPlanProject_Dawam\FinPlanProject\bin\Release\FinPlanProject.exe.config
+D:\kuliah_difa\Semester_3\pemrog\ini uas\FinPlanProject_Dawam\FinPlanProject\bin\Release\FinPlanProject.exe
+D:\kuliah_difa\Semester_3\pemrog\ini uas\FinPlanProject_Dawam\FinPlanProject\bin\Release\FinPlanProject.pdb
+D:\kuliah_difa\Semester_3\pemrog\ini uas\FinPlanProject_Dawam\FinPlanProject\bin\Release\System.Data.SQLite.dll
+D:\kuliah_difa\Semester_3\pemrog\ini uas\FinPlanProject_Dawam\FinPlanProject\bin\Release\System.Data.SQLite.xml
+D:\kuliah_difa\Semester_3\pemrog\ini uas\FinPlanProject_Dawam\FinPlanProject\obj\Release\FinPlanProject.csproj.AssemblyReference.cache
+D:\kuliah_difa\Semester_3\pemrog\ini uas\FinPlanProject_Dawam\FinPlanProject\obj\Release\FinPlanProject.csproj.SuggestedBindingRedirects.cache
+D:\kuliah_difa\Semester_3\pemrog\ini uas\FinPlanProject_Dawam\FinPlanProject\obj\Release\FinPlanProject.Homepage.resources
+D:\kuliah_difa\Semester_3\pemrog\ini uas\FinPlanProject_Dawam\FinPlanProject\obj\Release\FinPlanProject.Login.resources
+D:\kuliah_difa\Semester_3\pemrog\ini uas\FinPlanProject_Dawam\FinPlanProject\obj\Release\FinPlanProject.Properties.Resources.resources
+D:\kuliah_difa\Semester_3\pemrog\ini uas\FinPlanProject_Dawam\FinPlanProject\obj\Release\FinPlanProject.Sign_Up.resources
+D:\kuliah_difa\Semester_3\pemrog\ini uas\FinPlanProject_Dawam\FinPlanProject\obj\Release\FinPlanProject.csproj.GenerateResource.cache
+D:\kuliah_difa\Semester_3\pemrog\ini uas\FinPlanProject_Dawam\FinPlanProject\obj\Release\FinPlanProject.csproj.CoreCompileInputs.cache
+D:\kuliah_difa\Semester_3\pemrog\ini uas\FinPlanProject_Dawam\FinPlanProject\obj\Release\FinPlanProject.csproj.CopyComplete
+D:\kuliah_difa\Semester_3\pemrog\ini uas\FinPlanProject_Dawam\FinPlanProject\obj\Release\FinPlanProject.exe
+D:\kuliah_difa\Semester_3\pemrog\ini uas\FinPlanProject_Dawam\FinPlanProject\obj\Release\FinPlanProject.pdb
